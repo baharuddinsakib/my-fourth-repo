@@ -5,3 +5,8 @@ p{
     color:chartreuse;
     background-color: navy;
 }
+#ok{
+    color: blueviolet;
+    background-color: bisque;
+    border:2px solid red;
+}
